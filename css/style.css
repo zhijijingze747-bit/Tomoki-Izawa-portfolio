@@ -448,6 +448,9 @@ textarea {
 
 .project-details__showcase-img {
   width: 100%; }
+.project-details__added-img{
+  text-align: center;
+  width: 90%;}
 
 .project-details__content-main {
   width: 100%;
